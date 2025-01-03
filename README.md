@@ -11,13 +11,13 @@
 ## Install
 
 ```sh
-npm install read-package-up
+npm install @smushytaco/read-package-up
 ```
 
 ## Usage
 
 ```js
-import {readPackageUp} from 'read-package-up';
+import {readPackageUp} from '@smushytaco/read-package-up';
 
 console.log(await readPackageUp());
 /*
