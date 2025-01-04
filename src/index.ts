@@ -1,5 +1,5 @@
 import path from 'node:path';
-import { findUp, findUpSync } from 'find-up-simple';
+import { findUp, findUpSync } from '@smushytaco/find-up-simple';
 import {
     readPackage,
     readPackageSync,

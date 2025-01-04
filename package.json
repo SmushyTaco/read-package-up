@@ -1,6 +1,6 @@
 {
 	"name": "@smushytaco/read-package-up",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Read the closest package.json file",
 	"license": "MIT",
 	"private": false,
@@ -75,7 +75,7 @@
 		"path"
 	],
 	"dependencies": {
-		"find-up-simple": "^1.0.0",
+		"@smushytaco/find-up-simple": "^1.0.0",
 		"read-pkg": "^9.0.1",
 		"type-fest": "^4.31.0"
 	},
